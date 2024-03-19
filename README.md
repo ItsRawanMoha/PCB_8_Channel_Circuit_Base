@@ -47,7 +47,7 @@ The 8 Relay channel with ESP32 board is an integrated solution for controlling v
 - Once the PCBs are ready, assemble the components onto the board, following standard soldering practices.
 
 ## MY OWN DESIGN ON EasyEDA
-# LINK: https://easyeda.com/editor#id=!bf467c2ac6b6419eb06c8cddbc3ce8c0
+### LINK: https://easyeda.com/editor#id=!bf467c2ac6b6419eb06c8cddbc3ce8c0
 
 ![dw46Z9m10u](https://github.com/ItsRawanMoha/PCB_8_Channel_Circuit_Base/assets/156599594/3a11ef15-129a-4b21-aeaa-addcde3bce20)
 
