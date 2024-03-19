@@ -15,7 +15,7 @@ The 8 Relay channel with ESP32 board is an integrated solution for controlling v
 1. Setup EasyEDA Project
 - Open EasyEDA and create a new project.
 
-3. Design Custom Board
+2. Design Custom Board
 - Utilize EasyEDA's schematic editor to design the 8 Relay channel with ESP32 board with 8 relays and an ESP32 microcontroller.
 - Include necessary components such as voltage regulators, connectors, and headers.
 - Ensure proper layout and connectivity for relay control and ESP32 interfacing.
